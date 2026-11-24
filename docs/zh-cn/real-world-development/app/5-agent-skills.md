@@ -31,6 +31,8 @@ Tailspin Toys 使用 `quality-checks` 技能运行单元测试、lint 和类型�
 
 ## 探索技能
 
+下面来了解 Tailspin Toys 团队创建的、用于运行单元测试、lint 和类型检查的 `quality-checks` 技能。
+
 1. 如果尚未打开 **Files** 画布，请在审查面板中选择 **+**，再选择 **File**。
 2. 搜索 `.github/skills/quality-checks/SKILL.md`。
 3. 阅读顶部的 `name` 和 `description`。注意，说明可帮助 Copilot 判断何时调用技能。

@@ -3,7 +3,7 @@ slug: zh-cn/real-world-development/vscode
 title: "VS Code"
 authors:
   - geektrainer
-lastUpdated: 2026-06-30
+lastUpdated: 2026-09-16
 ---
 
 VS Code 中的 **[GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/chat/copilot-chat)** 将 GitHub Copilot 带入了日常使用的代码编辑器。在 Visual Studio Code（以及 GitHub Codespaces）中，可以使用代理模式操作 Copilot Chat，通过 MCP 连接外部工具，并使用自定义代理，全程无需离开 IDE。在这里，Copilot 可以完整查看文件、终端和问题。
